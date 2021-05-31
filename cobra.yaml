@@ -1,0 +1,9 @@
+service_name: Cobra
+config_type: mongdb
+project: my-project
+topic: my-pubsub-topic
+ip: 127.0.0.0
+port: 65017
+database: main_db
+username: admin
+password: admin
